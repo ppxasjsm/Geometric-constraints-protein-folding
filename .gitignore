@@ -111,5 +111,6 @@ venv.bak/
 *.log
 *.suppinfo
 *.synctex.gz
+*.out
 
 .DS_Store
