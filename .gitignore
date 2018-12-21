@@ -112,3 +112,4 @@ venv.bak/
 *.suppinfo
 *.synctex.gz
 
+.DS_Store
